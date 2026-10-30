@@ -1,5 +1,9 @@
 # jellyfin-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/jellyfin-or-just-updated-media-server-th?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Jellyfin template](https://railway.com/deploy/jellyfin-or-just-updated-media-server-th?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image around [`jellyfin/jellyfin`](https://hub.docker.com/r/jellyfin/jellyfin)
 for the Railway template, pinned to **10.11.11**.
 
